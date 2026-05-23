@@ -1,6 +1,6 @@
 # Income Classification & Customer Segmentation
 
-Take-home project on the 1994–1995 Census-Income (KDD) dataset. Two deliverables: a classifier predicting whether a person earns above or below \$50K, and a customer segmentation model for marketing.
+Take-home project on the census income dataset. Two deliverables: a classifier predicting whether a person earns above or below \$50K, and a customer segmentation model for marketing.
 
 ## Project structure
 
