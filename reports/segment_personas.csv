@@ -1,0 +1,5 @@
+segment,persona,pop_share,high_income_rate,share_of_high_income,targeting_efficiency
+0,Early Career/Students,0.151,0.003,0.007,0.05
+1,Experienced Professionals,0.454,0.133,0.94,2.07
+2,Retirees,0.158,0.021,0.052,0.331
+3,Children/Minors,0.237,0.0,0.0,0.0

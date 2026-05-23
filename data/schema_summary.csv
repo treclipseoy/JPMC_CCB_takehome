@@ -1,0 +1,43 @@
+,dtype,n_unique,pct_missing_or_niu,pct_niu_only,top_value,top_share
+age,int64,91,0.0,0.0,34,1.7
+class of worker,object,9,50.24,50.24,Not in universe,50.2
+detailed industry recode,object,52,0.0,0.0,0,50.5
+detailed occupation recode,object,47,0.0,0.0,0,50.5
+education,object,17,0.0,0.0,High school graduate,24.3
+wage per hour,int64,1240,0.0,0.0,0,94.3
+enroll in edu inst last wk,object,3,93.69,93.69,Not in universe,93.7
+marital stat,object,7,0.0,0.0,Never married,43.3
+major industry code,object,24,50.46,50.46,Not in universe or children,50.5
+major occupation code,object,15,50.46,50.46,Not in universe,50.5
+race,object,5,0.0,0.0,White,83.9
+hispanic origin,object,9,0.59,0.15,All other,86.2
+sex,object,2,0.0,0.0,Female,52.1
+member of a labor union,object,3,90.45,90.45,Not in universe,90.4
+reason for unemployment,object,6,96.96,96.96,Not in universe,97.0
+full or part time employment stat,object,8,0.0,0.0,Children or Armed Forces,62.0
+capital gains,int64,132,0.0,0.0,0,96.3
+capital losses,int64,113,0.0,0.0,0,98.0
+dividends from stocks,int64,1478,0.0,0.0,0,89.4
+tax filer stat,object,6,0.0,0.0,Nonfiler,37.6
+region of previous residence,object,6,92.09,92.09,Not in universe,92.1
+state of previous residence,object,51,92.45,92.45,Not in universe,92.1
+detailed household and family stat,object,38,0.0,0.0,Householder,26.7
+detailed household summary in household,object,8,0.0,0.0,Householder,37.8
+weight,float64,99800,0.0,0.0,753.23,0.0
+migration code-change in msa,object,10,50.73,50.73,?,50.0
+migration code-change in reg,object,9,50.73,50.73,?,50.0
+migration code-move within reg,object,10,50.73,50.73,?,50.0
+live in this house 1 year ago,object,3,50.73,50.73,Not in universe under 1 year old,50.7
+migration prev res in sunbelt,object,4,92.09,92.09,?,50.0
+num persons worked for employer,int64,7,0.0,0.0,0,48.1
+family members under 18,object,5,72.29,72.29,Not in universe,72.3
+country of birth father,object,43,3.36,3.36,United-States,79.8
+country of birth mother,object,43,3.07,3.07,United-States,80.4
+country of birth self,object,43,1.7,1.7,United-States,88.7
+citizenship,object,5,0.0,0.0,Native- Born in the United States,88.7
+own business or self employed,object,3,0.0,0.0,0,90.6
+fill inc questionnaire for veteran's admin,object,3,99.01,99.01,Not in universe,99.0
+veterans benefits,object,3,0.0,0.0,2,75.2
+weeks worked in year,int64,53,0.0,0.0,0,48.1
+year,object,2,0.0,0.0,94,50.0
+label,object,2,0.0,0.0,- 50000.,93.8
